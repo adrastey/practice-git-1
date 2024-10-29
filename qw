@@ -1,0 +1,26 @@
+[33mcommit a5668452cf608a0998da811fb22dea1d411856cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Egor <egor_tes1@mail.ru>
+Date:   Tue Oct 29 10:59:37 2024 +0300
+
+    Revert "Another capital was added"
+    
+    This reverts commit 64cce0b695876f5efc60431715627b26e5e7731a.
+
+[33mcommit 64cce0b695876f5efc60431715627b26e5e7731a[m
+Author: Egor <egor_tes1@mail.ru>
+Date:   Tue Oct 29 10:57:21 2024 +0300
+
+    Another capital was added
+
+[33mcommit 9eb8f6cb53514e12e967e30e7a61d7896d0d375a[m
+Author: Egor <egor_tes1@mail.ru>
+Date:   Tue Oct 29 10:46:50 2024 +0300
+
+    Capital addeds
+    Tue Oct 29 10:46:50 2024 +0300
+
+[33mcommit 752002c4480f5db3a053e08db1ec6d0f83c5e17e[m
+Author: Egor <egor_tes1@mail.ru>
+Date:   Tue Oct 29 10:43:52 2024 +0300
+
+    My first commit
